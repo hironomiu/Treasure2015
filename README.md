@@ -3,14 +3,14 @@ Treasure環境
 
 # Install
 ```
-$ git clone git@github.com:hironomiu/VagrantTreasure2015.git
+$ git clone git@github.com:hironomiu/Treasure2015.git
 or
-$ git clone https://github.com/hironomiu/VagrantTreasure2015.git 
+$ git clone https://github.com/hironomiu/Treasure2015.git 
 ```
 # Start UP
 
 ```
-$ cd VagrantTreasure2015  
+$ cd Treasure2015  
 $ vagrant up
 ```
 
