@@ -28,7 +28,7 @@ $ vagrant ssh
 | OS user | pass | 接続DB | 接続Port |  DB user |  DB pass | 用途 |
 |:-----------:|:------------:|:------------:|:------------:|:------------:|:------------:|:------------:|
 | root | - | - | 3306 |  root | vagrant | root vagrantユーザより sudo su -にて遷移|
-| vagrant | - | - | - | - | - | vagrant用ユーザ vagrant sshにてログイン|
+| vagrant | - | - | - | - | - | 開発ユーザ vagrant sshにてログイン|
 | demouser | demouser | demouser | 3306 | demouser | demouser | 開発ユーザ |
 | group-a | group-a | group_a | 3306 | group_a | group_a | 開発ユーザ |
 | group-b | group-b | group_b | 3306 | group_b | group_b | 開発ユーザ |
